@@ -32,7 +32,7 @@ E.g
 ``` ![Camera](https://cdn-icons-png.flaticon.com/128/1042/1042339.png "Hover-text") ```
 
 ## To include code
-Use backticks for code ``` ```
+Use Backticks
 - E.g
 ```
     ``` javascript

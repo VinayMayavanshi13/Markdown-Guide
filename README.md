@@ -31,5 +31,37 @@ This includes the syntax for markdown.
 E.g 
 ``` ![Camera](https://cdn-icons-png.flaticon.com/128/1042/1042339.png "Hover-text") ```
 
+## To include code
+Use backticks for code ``` ```
+- E.g
+```
+    ``` javascript
+            var name = "Porus"
+       
+    ```
+```
 
+## Tables 
+```
+|Sr. No  |Items  |Quantity|
+|--- |--- |--- |
+|1. |Chairs |8
+|2. |Tables |2
+```
+## Blockquote
+``` 
+> Hello there,this is the effect you get.
+```
+## Horizontal line
+``` --- ```
 
+## List 
+``` 
+1. One
+2. Two
+3. Three
+    1. Four
+    2. Five
+
+- List 2
+``` 

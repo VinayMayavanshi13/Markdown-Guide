@@ -65,3 +65,21 @@ Use Backticks
 
 - List 2
 ``` 
+## Math in Markdown
+
+Mathematical expressions are key to information sharing amongst engineers, scientists, data scientists and mathematicians. We are pleased to announce that math expressions can now be rendered natively in Markdown on GitHub.
+
+Support for displaying math expressions has been a highly requested feature for over 8 years. From today, you can use the $ and $$ delimiters natively in Markdown on GitHub to insert math expressions in TeX and LaTeX style syntax. This content is then rendered using the highly popular MathJax library.
+
+For example, the following Markdown,
+
+```
+When $a \ne 0$, there are two solutions to $(ax^2 + bx + c = 0)$ and they are 
+$$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
+```
+
+will render as:
+
+[Image]("C:\Users\Vinay\OneDrive\Desktop\Markdown-Guide\Attactments\Equation-01.png")
+
+---

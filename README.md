@@ -80,6 +80,5 @@ $$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
 
 will render as:
 
-[Image]("C:\Users\Vinay\OneDrive\Desktop\Markdown-Guide\Attactments\Equation-01.png")
-
+![Result](./Attachments/Equation-01.png)
 ---

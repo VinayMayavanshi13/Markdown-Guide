@@ -67,9 +67,7 @@ Use Backticks
 ``` 
 ## Math in Markdown
 
-Mathematical expressions are key to information sharing amongst engineers, scientists, data scientists and mathematicians. We are pleased to announce that math expressions can now be rendered natively in Markdown on GitHub.
-
-Support for displaying math expressions has been a highly requested feature for over 8 years. From today, you can use the $ and $$ delimiters natively in Markdown on GitHub to insert math expressions in TeX and LaTeX style syntax. This content is then rendered using the highly popular MathJax library.
+Mathematical expressions are key to information sharing amongst engineers, scientists, data scientists and mathematicians. You can use the $ and $$ delimiters natively in Markdown on GitHub to insert math expressions in TeX and LaTeX style syntax. This content is then rendered using the highly popular MathJax library.
 
 For example, the following Markdown,
 
